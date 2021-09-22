@@ -16,13 +16,15 @@ Run the following commands in the folder of the project:
 
 ## Run the project
 
-Make sure to be on a network set to private in windows.
+Make sure to be on a network set to private in windows and run:
 
 `npm start`
 
+Use the expo app to run it on the mobile phone.
+
 ## Build project
 
-This project was built with [expo](https://expo.dev/). You can take a look at the documentation to learn more about it.
+This project was built with [expo](https://expo.dev/).
 
 The basic command to build for android is the following:
 
