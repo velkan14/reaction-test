@@ -2,7 +2,7 @@
 
 Reaction test for mobile with React Native
 
-Check the web version [here](https://reaction-test.vercel.app/)!
+Check the web version [here](https://reaction-test.vercel.app/)! (The web version is currently buggy on mobile web 🤔)
 
 ## Installation
 
