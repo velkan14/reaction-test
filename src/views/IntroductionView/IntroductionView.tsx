@@ -11,9 +11,6 @@ const IntroductionView = () => {
     setRoute(routes.WAIT);
   };
 
-  const [isEnabled, setIsEnabled] = useState(false);
-  const toggleSwitch = () => setIsEnabled((previousState) => !previousState);
-
   return (
     <Pressable
       style={styles.press}
